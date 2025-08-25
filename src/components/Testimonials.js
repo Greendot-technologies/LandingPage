@@ -109,6 +109,13 @@ const Testimonials = () => {
         '"Leading Farmseasy has been an incredible journey. Our vision of empowering farmers with technology is becoming reality, and seeing the positive impact on agricultural communities drives me every day."',
       avatar: "https://ui-avatars.com/api/?name=Balaji+Nayak&background=16a34a&color=fff&size=40&rounded=true",
     },
+   {
+      name: "Vishal Nayak",
+      title: "Founder & CEO",
+      content:
+        '"As a founder, my focus is on building strategic partnerships that enhance our platform’s value for farmers. Collaborating with agri-input companies and governments allows us to create a holistic ecosystem that supports sustainable agriculture."',
+      avatar: "https://ui-avatars.com/api/?name=Vishal+Nayak&background=16a34a&color=fff&size=40&rounded=true",
+    },
     {
       name: "Yogesh Kulkarni",
       title: "Product Manager",
@@ -116,6 +123,7 @@ const Testimonials = () => {
         '"Working closely with farmers to understand their needs has shaped our product strategy. Every feature we build is designed to solve real problems and make farming more efficient and profitable."',
       avatar: "https://ui-avatars.com/api/?name=Yogesh+Kulkarni&background=16a34a&color=fff&size=40&rounded=true",
     },
+    
     {
       name: "Rutuja Dalal",
       title: "Software Engineer",

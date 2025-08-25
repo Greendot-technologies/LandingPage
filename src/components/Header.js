@@ -91,16 +91,16 @@ const Header = () => {
                 className="text-black hover:text-green-500 font-medium transition"
                 onClick={() => setMenuOpen(false)}
               >
-                Opportunities
+                Products
               </a>
               <a
                 href="#Testimonials"
                 className="text-black hover:text-green-500 font-medium transition"
                 onClick={() => setMenuOpen(false)}
               >
-                Testimonial
+                Teams
               </a>
-              <a
+              {/* <a
                 href="#InvestmentOptions"
                 className="text-black hover:text-green-500 font-medium transition"
                 onClick={() => setMenuOpen(false)}
@@ -113,7 +113,7 @@ const Header = () => {
                 onClick={() => setMenuOpen(false)}
               >
                 Contact
-              </a>
+              </a> */}
 
               {/* Download Button for Mobile */}
               <a
